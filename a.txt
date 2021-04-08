@@ -1,1 +1,5 @@
-not empty
+LOCAL COMMAND:
+
+git remote add origin http://////
+git branch -M master
+git push -u origin master

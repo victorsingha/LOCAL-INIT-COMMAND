@@ -3,7 +3,7 @@
 
 `git init`
 
-**.....code..❤❤❤❤
+`.....code..❤❤❤❤`
 
 `git add *`
 
